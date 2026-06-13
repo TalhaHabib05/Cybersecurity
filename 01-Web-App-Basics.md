@@ -74,6 +74,3 @@ Modern web defense relies on properly configured response headers to mitigate cl
 * **Cookie Security Flags:**
     * `Secure`: Ensures the cookie is only transmitted over encrypted HTTPS connections.
     * `HttpOnly`: Prevents JavaScript from accessing the cookie, heavily mitigating the impact of XSS attacks.
-
----
-*Next Module Focus: Exploiting the OWASP Top 10 vulnerabilities.*
